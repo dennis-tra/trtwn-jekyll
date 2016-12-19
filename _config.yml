@@ -68,10 +68,13 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .env.example
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
   - Capfile
+  - Dockerfile
+  - docker-compose.yml
   - Gemfile
   - Gruntfile.js
   - LICENSE
