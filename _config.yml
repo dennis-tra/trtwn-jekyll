@@ -12,16 +12,16 @@ owner:
   bio:            "BSc. in extraterrestrial physics | iOS Dev at Touchtech Wellington | WebDev at Sanctuary Digital in Melbourne | currently doing MSc. in solid state physics"
   email:          dennisauskiel@posteo.de
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
+  twitter:        
   facebook:       
-  github:        https://github.com/dennis-tra 
-  stackexchange: http://stackoverflow.com/users/3934265/graf 
-  linkedin:      https://www.linkedin.com/in/dennis-trautwein-6a4307106
+  github:         dennis-tra 
+  stackexchange:  http://stackoverflow.com/users/3934265/graf 
+  linkedin:       dennis-trautwein-6a4307106
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +MichaelRoseDesign
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:
