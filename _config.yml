@@ -1,6 +1,6 @@
 title:            TRTWN Blog
 description:      Describe your website here.
-disqus_shortname: 
+disqus_shortname: trtwn
 reading_time:     true
 words_per_minute: 200
 url:              https://mmistakes.github.io/hpstr-jekyll-theme
