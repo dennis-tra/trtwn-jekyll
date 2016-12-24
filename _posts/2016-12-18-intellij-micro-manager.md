@@ -11,18 +11,17 @@ image:
   creditlink:
 ---
 
-We in our lab are using [Micro-Manager](https://www.micro-manager.org) to control a very sensitive camera of a photoelectron emission microscope (PEEM). This has the advantage of using free, open source software with high compatibility and extensibility. The tight binding to [ImageJ](https://imagej.net), an image processing application, makes it a comprehensive imaging solution for scientific purposes.
+We in our lab are using [Micro-Manager](https://www.micro-manager.org) to control a very sensitive camera of a photoemission electron microscope (PEEM). This has the advantage of using free, open source software with high compatibility and extensibility. The tight binding to [ImageJ](https://imagej.net), an image processing application, makes it a comprehensive imaging solution for scientific purposes.
 
-Recently I wanted to extend the functionality of Micro-Manager with a plugin and put some effort into researching how to do this. I found [these](https://micro-manager.org/wiki/Writing_plugins_for_Micro-Manager) instructions to set up the development environment for [Netbeans](https://netbeans.org/) and [Eclipse](https://eclipse.org/), which are both great choices if you want to do Java development. But due to my software development background I got quite familiar with [Jetbrains](https://www.jetbrains.com/) IDE's like [PyCharm](https://www.jetbrains.com/pycharm/), [RubyMine](https://www.jetbrains.com/ruby/) or [WebStorm](https://www.jetbrains.com/webstorm/). This motivated me to set up the development environment for Jetbrains [IntelliJ](https://www.jetbrains.com/idea/) and because there are quite a few things to consider I thought of writing a quick run through.
+Recently I wanted to extend the functionality of Micro-Manager and put some effort into researching how to do this. I found [these](https://micro-manager.org/wiki/Writing_plugins_for_Micro-Manager) instructions to set up the development environment for [Netbeans](https://netbeans.org/) and [Eclipse](https://eclipse.org/), which are both great choices if you want to do Java development. But due to my software development background I got quite familiar with [Jetbrains](https://www.jetbrains.com/) IDE's like [PyCharm](https://www.jetbrains.com/pycharm/), [RubyMine](https://www.jetbrains.com/ruby/) or [WebStorm](https://www.jetbrains.com/webstorm/). This motivated me to set up the development environment for Jetbrains [IntelliJ](https://www.jetbrains.com/idea/) and because there are quite a few things to configure I thought of writing a quick run through.
 
 ## Prerequisites
-You need the following things to follow tutorial:
 
 * [Jetbrains IntelliJ](https://www.jetbrains.com/idea/)
 * [Micro-Manager 1.4](https://www.micro-manager.org)
 * [ImageJ](https://imagej.net) (Micro-Manager contains a copy of the entire ImageJ application, so no action required)
 
-Now we're all set, so let's start setting up our project.
+Now we're all set - let's start setting up our project.
 
 > This tutorial assumes that Micro-Manager is installed under `/Applications/Micro-Manager1.4`.
 
