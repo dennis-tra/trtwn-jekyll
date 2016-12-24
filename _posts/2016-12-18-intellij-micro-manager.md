@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Setting up Jetbrains IntelliJ IDEA to develop Micro-Manager 1.4 Plugins
-description: ""
+description: "A tutorial about how to set up Jetbrains IntelliJ IDEA to develop Micro-Manager 1.4 plugins"
 modified: 2014-12-24
-tags: []
+tags: [development]
 comments: true
 image:
   feature: coding.jpg
