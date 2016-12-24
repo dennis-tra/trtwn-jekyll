@@ -3,7 +3,7 @@ description:      Describe your website here.
 disqus_shortname: trtwn
 reading_time:     true
 words_per_minute: 200
-url:              https://dennis-tra.github.io/trtwn-jekyll
+url:              http://trtwn.de
 
 # Owner/author information
 owner:
@@ -12,29 +12,29 @@ owner:
   bio:            "BSc. in extraterrestrial physics | iOS Dev at Touchtech Wellington | WebDev at Sanctuary Digital in Melbourne | currently doing MSc. in solid state physics"
   email:          dennisauskiel@posteo.de
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         dennis-tra 
-  stackexchange:  http://stackoverflow.com/users/3934265/graf 
+  twitter:
+  facebook:
+  github:         dennis-tra
+  stackexchange:  http://stackoverflow.com/users/3934265/graf
   linkedin:       dennis-trautwein-6a4307106
-  instagram:      
-  flickr:         
-  tumblr:         
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_verify:      
+google_verify:
 google_analytics:   UA-73454958-2
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Berlin 
-future:      false  # publish future dated posts --  true, false (default) 
+timezone:    Europe/Berlin
+future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
@@ -60,9 +60,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
